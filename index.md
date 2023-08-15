@@ -1,5 +1,5 @@
 ---
-title: this is from github pages
+title: Independence-Day
 ---
 
 # Pravin's new page
